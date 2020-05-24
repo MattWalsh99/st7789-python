@@ -21,6 +21,8 @@ Install this library by running:
 
 ````
 sudo pip install st7789
+sudo pip3 install st7789 # Python 3
+
 ````
 
 See example of usage in the examples folder.
